@@ -2,12 +2,7 @@
 
 This is food delivery app developed with react native.
 
-## Installation
-
-```
-    npm install
-    npx react-native run-android
-```
+<img title="Log in" src="./images/homepage.png" height=550> | <img title="Log in" src="./images/restaurant.png" height=550> | <img title="Log in" src="./images/product.png" height=550> | <img title="Log in" src="./images/checkout.png" height=550> | <img title="Log in" src="./images/delivering.png" height=550>
 
 ## Features
 
