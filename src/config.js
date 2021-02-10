@@ -1,4 +1,4 @@
-const baseURL = "https://ceebo.com/api/v1/";
+const baseURL = "https://xxx.com/api/v1/";
 
 export default {
     // user management api
@@ -59,5 +59,5 @@ export default {
     helpInteractionURL: baseURL + "help/order_interactions"
 }
 
-export const STRIPE_PUBLIC_TEST_KEY = 'pk_test_cJzcNynu2FfTD9cbnjYx71Uq00PrxLrygl';
-export const GOOGLE_MAP_API_KEY = 'AIzaSyDml6rqKwjgQgPomyAhC-WxVt4aLodlraU'
+export const STRIPE_PUBLIC_TEST_KEY = 'pk_test_1234567890';
+export const GOOGLE_MAP_API_KEY = 'AIza234567890'
